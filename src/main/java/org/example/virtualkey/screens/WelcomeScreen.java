@@ -10,7 +10,7 @@ import java.util.Scanner;
 
 public class WelcomeScreen implements Screen {
 
-    private String welcomeText = "Welcome to Simpllearn!";
+    private String welcomeText = "Welcome to Company Lockers Pvt. Ltd.";
     private String developerText = "Developer:Sushant Banerjee";
 
     private ArrayList<String> options = new ArrayList<>();
